@@ -1,2 +1,3 @@
-moviepy 
-pydub
+moviepy
+fastapi
+uvicorn[standard]
